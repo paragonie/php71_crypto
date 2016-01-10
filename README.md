@@ -1,2 +1,5 @@
-# php71_crypto
-Pluggable Cryptography Interface for PHP 7.1
+# Pluggable Cryptography Interface for PHP 7.1
+
+## Discussion
+
+`#php.security` on `irc.freenode.net`
